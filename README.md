@@ -10,8 +10,8 @@ There are two methods for getting started with this repo.
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
+> git clone https://github.com/john-winslow/ReduxBookShelf.git
+> cd ReduxBookShelf
 > npm install
 > npm start
 ```
@@ -23,3 +23,4 @@ Click [here](https://github.com/StephenGrider/ReactStarter/releases) then downlo
 > npm install
 > npm start
 ```
+Open browser and navigate to http://localhost:8080/
